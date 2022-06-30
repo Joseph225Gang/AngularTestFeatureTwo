@@ -1,0 +1,9 @@
+:host{
+    padding-bottom: 5px;
+    border: 1px solid red;
+    background-color: blue;
+}
+
+host ::ng-deep .theme-light {
+    background-color: #eef;
+  }
